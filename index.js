@@ -7,6 +7,8 @@ import "dotenv/config";
 import routes from "./src/routes/index.js";
 
 const app = express();
+  Authorization: Bearer <QXzCPGIGs4bukLW43ClyySOV
+>
 
 app.use(cors());
 app.use(express.json());
